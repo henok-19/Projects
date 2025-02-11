@@ -1,0 +1,579 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|c:\\users\\henok\\documents\\github\\cardealership\\vs\\cardeal\\cardeal\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\aglogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\aglogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\aglogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\aglogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\newacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\newacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\newacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\newacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\sellers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\sellers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\sellers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\sellers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\get2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\get2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\addcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\addcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\addcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\addcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\get1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\get1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\get2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\get2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\get1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\get1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\removecars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\removecars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\removecars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6C38CB-F8F7-48E9-8BBB-1AB5C4C34DD8}|cardeal\\cardeal.csproj|solutionrelative:cardeal\\removecars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sign.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\sign.cs",
+              "RelativeDocumentMoniker": "cardeal\\sign.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\sign.cs [Design]",
+              "RelativeToolTip": "cardeal\\sign.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Newacc.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Newacc.cs",
+              "RelativeDocumentMoniker": "cardeal\\Newacc.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Newacc.cs",
+              "RelativeToolTip": "cardeal\\Newacc.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-22T05:28:06.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Newacc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Newacc.cs",
+              "RelativeDocumentMoniker": "cardeal\\Newacc.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Newacc.cs [Design]",
+              "RelativeToolTip": "cardeal\\Newacc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-22T05:26:51.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sell.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Sell.cs",
+              "RelativeDocumentMoniker": "cardeal\\Sell.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Sell.cs",
+              "RelativeToolTip": "cardeal\\Sell.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-15T15:00:39.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Home.cs",
+              "RelativeDocumentMoniker": "cardeal\\Home.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Home.cs [Design]",
+              "RelativeToolTip": "cardeal\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-16T16:51:18.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signin.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\signin.cs",
+              "RelativeDocumentMoniker": "cardeal\\signin.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\signin.cs",
+              "RelativeToolTip": "cardeal\\signin.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T16:02:32.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Agent.cs",
+              "RelativeDocumentMoniker": "cardeal\\Agent.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Agent.cs [Design]",
+              "RelativeToolTip": "cardeal\\Agent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-15T15:00:39.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aglogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Aglogin.cs",
+              "RelativeDocumentMoniker": "cardeal\\Aglogin.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Aglogin.cs [Design]",
+              "RelativeToolTip": "cardeal\\Aglogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-15T15:43:06.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aglogin.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Aglogin.cs",
+              "RelativeDocumentMoniker": "cardeal\\Aglogin.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Aglogin.cs",
+              "RelativeToolTip": "cardeal\\Aglogin.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-15T15:43:08.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "signin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\signin.cs",
+              "RelativeDocumentMoniker": "cardeal\\signin.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\signin.cs [Design]",
+              "RelativeToolTip": "cardeal\\signin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T16:02:31.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sign.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\sign.cs",
+              "RelativeDocumentMoniker": "cardeal\\sign.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\sign.cs",
+              "RelativeToolTip": "cardeal\\sign.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Home.cs",
+              "RelativeDocumentMoniker": "cardeal\\Home.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Home.cs",
+              "RelativeToolTip": "cardeal\\Home.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAvwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sell.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Sell.cs",
+              "RelativeDocumentMoniker": "cardeal\\Sell.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Sell.cs [Design]",
+              "RelativeToolTip": "cardeal\\Sell.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-15T15:00:39.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sellers.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Sellers.cs",
+              "RelativeDocumentMoniker": "cardeal\\Sellers.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Sellers.cs",
+              "RelativeToolTip": "cardeal\\Sellers.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-23T09:49:21.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\CheckOut.cs",
+              "RelativeDocumentMoniker": "cardeal\\CheckOut.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\CheckOut.cs",
+              "RelativeToolTip": "cardeal\\CheckOut.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAvwHcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-16T15:56:39.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "settings.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\settings.cs",
+              "RelativeDocumentMoniker": "cardeal\\settings.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\settings.cs",
+              "RelativeToolTip": "cardeal\\settings.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\settings.cs",
+              "RelativeDocumentMoniker": "cardeal\\settings.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\settings.cs [Design]",
+              "RelativeToolTip": "cardeal\\settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Get2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get2.cs",
+              "RelativeDocumentMoniker": "cardeal\\Get2.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get2.cs [Design]",
+              "RelativeToolTip": "cardeal\\Get2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T16:15:27.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sellers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Sellers.cs",
+              "RelativeDocumentMoniker": "cardeal\\Sellers.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Sellers.cs [Design]",
+              "RelativeToolTip": "cardeal\\Sellers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-23T09:49:16.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "H.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\H.cs",
+              "RelativeDocumentMoniker": "cardeal\\H.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\H.cs",
+              "RelativeToolTip": "cardeal\\H.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAC0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Buy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Buy.cs",
+              "RelativeDocumentMoniker": "cardeal\\Buy.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Buy.cs [Design]",
+              "RelativeToolTip": "cardeal\\Buy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T15:03:33.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Buy.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Buy.cs",
+              "RelativeDocumentMoniker": "cardeal\\Buy.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Buy.cs",
+              "RelativeToolTip": "cardeal\\Buy.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T15:03:10.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Dash.cs",
+              "RelativeDocumentMoniker": "cardeal\\Dash.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Dash.cs [Design]",
+              "RelativeToolTip": "cardeal\\Dash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Agent.cs",
+              "RelativeDocumentMoniker": "cardeal\\Agent.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Agent.cs",
+              "RelativeToolTip": "cardeal\\Agent.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwGQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-15T15:00:39.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddCars.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\AddCars.cs",
+              "RelativeDocumentMoniker": "cardeal\\AddCars.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\AddCars.cs",
+              "RelativeToolTip": "cardeal\\AddCars.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddCars.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\AddCars.cs",
+              "RelativeDocumentMoniker": "cardeal\\AddCars.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\AddCars.cs [Design]",
+              "RelativeToolTip": "cardeal\\AddCars.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dash.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Dash.cs",
+              "RelativeDocumentMoniker": "cardeal\\Dash.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Dash.cs",
+              "RelativeToolTip": "cardeal\\Dash.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T18:24:41.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Get2.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get2.cs",
+              "RelativeDocumentMoniker": "cardeal\\Get2.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get2.cs",
+              "RelativeToolTip": "cardeal\\Get2.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T16:15:19.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Get.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get.cs",
+              "RelativeDocumentMoniker": "cardeal\\Get.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get.cs [Design]",
+              "RelativeToolTip": "cardeal\\Get.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T16:10:35.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CheckOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\CheckOut.cs",
+              "RelativeDocumentMoniker": "cardeal\\CheckOut.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\CheckOut.cs [Design]",
+              "RelativeToolTip": "cardeal\\CheckOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-16T16:05:47.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Get1.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get1.cs",
+              "RelativeDocumentMoniker": "cardeal\\Get1.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get1.cs",
+              "RelativeToolTip": "cardeal\\Get1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T16:14:06.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Get1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get1.cs",
+              "RelativeDocumentMoniker": "cardeal\\Get1.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get1.cs [Design]",
+              "RelativeToolTip": "cardeal\\Get1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T16:14:35.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Get.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get.cs",
+              "RelativeDocumentMoniker": "cardeal\\Get.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\Get.cs",
+              "RelativeToolTip": "cardeal\\Get.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-17T16:13:28.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "H.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\H.cs",
+              "RelativeDocumentMoniker": "cardeal\\H.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\H.cs [Design]",
+              "RelativeToolTip": "cardeal\\H.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:38.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RemoveCars.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\RemoveCars.cs",
+              "RelativeDocumentMoniker": "cardeal\\RemoveCars.cs",
+              "ToolTip": "C:\\Desktop\\Dealers\\CarDealership.git\\VS\\cardeal\\cardeal\\RemoveCars.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Desktop\\Dealers\\CarDealership.git\\VS\\cardeal\\cardeal\\RemoveCars.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RemoveCars.cs",
+              "DocumentMoniker": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\RemoveCars.cs",
+              "RelativeDocumentMoniker": "cardeal\\RemoveCars.cs",
+              "ToolTip": "C:\\Users\\henok\\Documents\\GitHub\\CarDealership\\VS\\cardeal\\cardeal\\RemoveCars.cs",
+              "RelativeToolTip": "cardeal\\RemoveCars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-10-15T15:00:39.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
