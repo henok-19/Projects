@@ -1,0 +1,11 @@
+T-Bike Shop Requests
+
+Requirement:
+	- Hourly Revenue Analysis
+	- Profit and Revenue Trends
+	- Seasonal Revenue
+	- Rider Demographics
+
+Question:
+
+Provide an estimated timeline for completion and recommendation on raising prices next year
